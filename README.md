@@ -38,7 +38,7 @@ A second group is about safety rather than mechanics: what an installer check ca
 | [Is OSM Wallet safe to use?](https://github.com/osmwallet/troubleshooting-hub/blob/HEAD/is-osmwallet-safe.md) | What the wallet can and cannot do with your key, stated without hedging. |
 | [Checking that your installer is the real one](https://github.com/osmwallet/troubleshooting-hub/blob/HEAD/verify-osmwallet-installer-checksum.md) | A one-command comparison, and what a mismatch actually means. |
 
-## How to use these guides
+## How to use these guides.
 
 1. **Start from the symptom, not the section.** Every file is named after what the reader sees, so the file name is the index.
 2. **Check the build before changing settings.** An older build explains a surprising number of these symptoms, and updating is usually the first fix.
